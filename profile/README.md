@@ -3,7 +3,7 @@ A place for Astronomers at Durham to share coding and science questions.  We hav
 
 ## Code & Cuppa
 
-A place for Astronomers at Durham University to discuss and learn about coding, and enjoy hot beverages.  Whether you have decades of coding experience or have just started coding for astronomy, you'll find a supportive environment to enhance your skills.  For all the Code & Cuppa Tutorials [click here](https://github.com/Code-Cuppa/Tutorials).
+A place for Astronomers at Durham University to discuss and learn about coding, and enjoy hot beverages.  Whether you have decades of coding experience or have just started coding for astronomy, you'll find a supportive environment to enhance your skills.  For all the Code & Cuppa Tutorials [click here](https://github.com/Code-Cuppa/CnC-Tutorials).
 
 ### What we do
 - **Meet** once a fortnight
