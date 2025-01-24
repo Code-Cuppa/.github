@@ -1,6 +1,8 @@
 # Astro Scripts and Science 
 A place for Astronomers at Durham to share coding and science questions.  We have two groups within this workspace, which meet on alternating weeks on Tuesdays at 2pm.  **Code & Cuppa** covers the coding side of astronomy, and at **Scraps of Science** you can share all your science questions.  For more information see below.
 
+If you would like access to the workspace, please let one of the Code & Cuppa organisers know.
+
 ## :computer: Code & Cuppa :coffee:
 
 A place for Astronomers at Durham University to discuss and learn about coding, and enjoy hot beverages.  Whether you have decades of coding experience or have just started coding for astronomy, you'll find a supportive environment to enhance your skills.  For all the Code & Cuppa Tutorials [click here](https://github.com/Code-Cuppa/CnC-Tutorials).
